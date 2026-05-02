@@ -17,7 +17,7 @@ _Empowering citizens with AI-driven knowledge about the democratic process, vote
 
 <br />
 
-**[🚀 View Live Demo]https://github.com/akash15072004/Vote_Guide_AI** · [Report Bug](https://github.com/akash15072004/Vote_Guide_AI/issues) · [Request Feature](https://github.com/akash15072004/Vote_Guide_AI/issues)
+**[🚀 View Live Demo]https://github.com/akash15072004/Vote_Guide_AI** · [Report Bug](https://github.com/akash15072004/Election-Process-Website-/issues) · [Request Feature](https://github.com/akash15072004/Election-Process-Website-/issues)
 
 </div>
 
@@ -137,7 +137,7 @@ Our approach prioritizes **progressive disclosure**. Complex topics are hidden b
 
 This project is **production-ready** and fully deployed using Firebase Hosting. The CI/CD pipeline ensures that the latest commits are instantly reflected in the live environment.
 
-🔗 **Access the Live Platform:** [https://election-process-app.web.app](https://election-process-app.web.app)
+🔗 **Access the Live Platform:** [https://election-process-website.vercel.app/](https://election-process-website.vercel.app/)
 
 ---
 
