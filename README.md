@@ -260,6 +260,6 @@ _(Note: Opening `index.html` directly via the `file://` protocol will result in 
 ---
 
 <div align="center">
-  <i>© 2026 VoteGuide AI — Built for the Hack2Skill PromptWars Challenge</i><br>
-  <b>Made with 🧡 for Indian Democracy</b>
+  <i>© 2026 An AI-powered interactive platform that makes the election process simple, engaging, and easy to understand.</i><br>
+  <b>Designed and Developed by Akash Chaudhary🧡</b>
 </div>
