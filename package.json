@@ -1,0 +1,22 @@
+{
+  "name": "voteguide-ai",
+  "version": "1.0.0",
+  "description": "VoteGuide AI — India's Smart Election Education & Voter Assistance Platform",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx http-server . -p 5000 --cors -c-1",
+    "test": "jest --verbose --coverage",
+    "test:unit": "jest tests/unit/ --verbose",
+    "test:security": "jest tests/security/ --verbose",
+    "test:integration": "jest tests/integration/ --verbose",
+    "test:accessibility": "jest tests/accessibility/ --verbose",
+    "test:edge": "jest tests/edge-cases/ --verbose",
+    "deploy": "firebase deploy"
+  },
+  "keywords": ["election", "voter", "ai", "gemini", "firebase", "civic-tech"],
+  "author": "VoteGuide AI Team",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^30.3.0"
+  }
+}
