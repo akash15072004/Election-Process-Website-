@@ -17,7 +17,7 @@ _Empowering citizens with AI-driven knowledge about the democratic process, vote
 
 <br />
 
-**[🚀 View Live Demo]https://github.com/akash15072004/Vote_Guide_AI** · [Report Bug](https://github.com/akash15072004/Election-Process-Website-/issues) · [Request Feature](https://github.com/akash15072004/Election-Process-Website-/issues)
+**[🚀 View Live Demo] https://github.com/akash15072004/Election-Process-Website-** · [Report Bug](https://github.com/akash15072004/Election-Process-Website-/issues) · [Request Feature](https://github.com/akash15072004/Election-Process-Website-/issues)
 
 </div>
 
@@ -242,7 +242,7 @@ Want to run the code locally? You only need a modern browser and a local develop
 ### Quick Start
 
 ```bash
-git clone https://github.com/akash15072004/Vote_Guide_AI
+git clone (https://github.com/akash15072004/Election-Process-Website-)
 cd Election-Process-Website
 npm install
 npm start          # Starts on http://localhost:5000
